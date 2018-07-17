@@ -43,7 +43,7 @@ class App extends Component {
           <div className="body-container">
             <div className="welcome">Welcome to Our Studio!</div>
             <div className="meet">IT'S NICE TO MEET YOU</div>
-            <button className="tell">TELL ME MORE</button>
+            <button className="tell"><a href='#services'>TELL ME MORE</a></button>
           </div>
         </div>
         <div id="services">
